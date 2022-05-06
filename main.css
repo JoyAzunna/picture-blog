@@ -1,0 +1,43 @@
+
+/* *{
+margin: 0;
+padding: 0;
+}
+.first_row{
+    margin-top: -49px;
+    margin-left: 45px;
+} */
+.first_row img, .second_row img{
+    border: 1.5px solid black;
+}
+/* .second_row{
+    margin-left: 45px;
+} */
+.card-title{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: black;
+}
+.click{
+    border-radius: 10px;
+    border-color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+.click:hover{
+    cursor: pointer;
+    background-color: green;
+}
+.card-text{
+    color: black;
+}
+.footer_input{
+    width: 50%;
+}
+.footer_text{
+    color:white ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+footer{
+    margin-top: 70px;
+}
